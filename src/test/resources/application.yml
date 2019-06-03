@@ -1,0 +1,6 @@
+spring:
+  arthas:
+    enabled: true
+    http-port: 8563
+    telnet-port: 3658
+    target-ip: 0.0.0.0
