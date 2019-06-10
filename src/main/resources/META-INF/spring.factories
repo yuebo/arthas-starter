@@ -1,1 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.eappcat.arthas.starter.ArthasAutoConfiuration
+org.springframework.context.ApplicationContextInitializer=com.eappcat.arthas.starter.ArthasInitializer
